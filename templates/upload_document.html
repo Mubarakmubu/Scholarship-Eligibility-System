@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Upload Documents</title>
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<div class="form-container">
+
+    <h1>Upload Scholarship Documents</h1>
+
+    <form action="/upload-document"
+          method="POST"
+          enctype="multipart/form-data">
+
+        <label>Income Certificate (PDF/DOCX)</label>
+        <input type="file"
+               name="income_certificate"
+               accept=".pdf,.doc,.docx"
+               required>
+
+        <br><br>
+
+        <label>Community Certificate (PDF/DOCX)</label>
+        <input type="file"
+               name="community_certificate"
+               accept=".pdf,.doc,.docx"
+               required>
+
+        <br><br>
+
+        <label>10th Marksheet (PDF/DOCX)</label>
+        <input type="file"
+               name="mark10"
+               accept=".pdf,.doc,.docx"
+               required>
+
+        <br><br>
+
+        <label>12th Marksheet (PDF/DOCX)</label>
+        <input type="file"
+               name="mark12"
+               accept=".pdf,.doc,.docx"
+               required>
+
+        <br><br>
+
+        <button type="submit">
+            Upload Documents
+        </button>
+
+    </form>
+
+</div>
+
+</body>
+</html>

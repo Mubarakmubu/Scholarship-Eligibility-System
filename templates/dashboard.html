@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+
+    <title>Student Dashboard</title>
+
+    <link rel="stylesheet"
+          href="{{ url_for('static', filename='css/style.css') }}">
+</head>
+
+<body>
+
+<div class="dashboard-container">
+
+    <h1>Student Dashboard</h1>
+
+    <h2>Welcome, {{ student.full_name }}</h2>
+
+    <div class="student-details">
+
+        <p><strong>Email:</strong> {{ student.email }}</p>
+
+        <p><strong>Mobile:</strong> {{ student.mobile }}</p>
+
+        <p><strong>Gender:</strong> {{ student.gender }}</p>
+
+        <p><strong>Category:</strong> {{ student.category }}</p>
+
+       <p><strong>EWS Status:</strong> {{ student["ews_status"] }}</p>
+        <p>
+            <strong>Family Income:</strong>
+            ₹{{ student.family_income }}
+        </p>
+
+        <p>
+            <strong>10th Percentage:</strong>
+            {{ student.marks_10 }}%
+        </p>
+
+        <p>
+            <strong>12th Percentage:</strong>
+            {{ student.marks_12 }}%
+        </p>
+
+        <p><strong>State:</strong> {{ student.state }}</p>
+
+        <p><strong>District:</strong> {{ student.district }}</p>
+
+    </div>
+
+   <a href="/upload-document">
+    <button>Upload Documents</button>
+</a>
+
+    <a href="/logout">
+        <button>Logout</button>
+    </a>
+
+</div>
+
+</body>
+</html>

@@ -1,0 +1,47 @@
+{% if scholarship_name %}
+    <h3>Suggested Scholarship</h3>
+    <p>{{ scholarship_name }}</p>
+{% endif %}
+
+<h3>Recommended Colleges</h3>
+
+{% if colleges %}
+<form action="/apply-scholarship" method="POST">
+
+    <select
+        name="college_name"
+        style="width:350px; padding:10px; font-size:16px;"
+        required
+    >
+        <option value="">Select a College</option>
+
+        {% for college in colleges %}
+            <option value="{{ college.college_name }}">
+                {{ college.college_name }}
+            </option>
+        {% endfor %}
+    </select>
+
+    <input
+        type="hidden"
+        name="scholarship_name"
+        value="{{ scholarship_name }}"
+    >
+
+    <br><br>
+
+    <button type="submit">
+        Apply for Scholarship
+    </button>
+
+</form>
+
+{% else %}
+<p>No colleges available for your eligibility.</p>
+{% endif %}
+
+<br><br>
+
+<a href="/dashboard">
+    <button type="button">Back to Dashboard</button>
+</a>
