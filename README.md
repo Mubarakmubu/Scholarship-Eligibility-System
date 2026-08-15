@@ -89,7 +89,7 @@ Pending Verification
 
 ### College Recommendation
 
-![College Recommendation](screenshots/college-recommendation.png)
+![College Recommendation](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/4d0737fa16a8f4b99fd3958cffa237eb9be6ff76/Screenshot%20(474).png)
 
 ### Application Submitted
 
