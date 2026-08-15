@@ -72,3 +72,29 @@ Store Application in MySQL
 Generate Application ID
         ↓
 Pending Verification
+
+## 📸 Screenshots
+
+### Login Page
+
+![Login Page](screenshots/login.png)
+
+### Student Dashboard
+
+![Dashboard](screenshots/dashboard.png)
+
+### Document Upload
+
+![Document Upload](screenshots/upload-document.png)
+
+### Eligibility Result
+
+![Eligibility Result](screenshots/eligibility-result.png)
+
+### College Recommendation
+
+![College Recommendation](screenshots/college-recommendation.png)
+
+### Application Submitted
+
+![Application Success](screenshots/application-success.png)
