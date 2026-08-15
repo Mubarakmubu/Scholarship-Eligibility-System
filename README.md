@@ -87,10 +87,6 @@ Pending Verification
 
 ![Document Upload](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/eea21bede28867be56c901bf53c256aedac90d3b/Screenshot%20(473).png)
 
-### Eligibility Result
-
-![Eligibility Result](screenshots/eligibility-result.png)
-
 ### College Recommendation
 
 ![College Recommendation](screenshots/college-recommendation.png)
