@@ -75,23 +75,13 @@ Pending Verification
 
 ## 📸 Screenshots
 
-### Login Page
-
-![Login Page]("C:\Users\mupar\OneDrive\Pictures\Screenshots\Screenshot (476).png")
-
-### Student Dashboard
+![Login Page](Screenshot%20(476).png)
 
 ![Dashboard](Screenshot%20(472).png)
 
-### Document Upload
-
 ![Document Upload](Screenshot%20(473).png)
 
-### College Recommendation
-
 ![College Recommendation](Screenshot%20(474).png)
-
-### Application Submitted
 
 ![Application Success](Screenshot%20(475).png)
 
