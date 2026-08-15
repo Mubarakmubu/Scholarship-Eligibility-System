@@ -77,7 +77,7 @@ Pending Verification
 
 ### Login Page
 
-![Login Page](screenshots/login.png)
+![Login Page]()
 
 ### Student Dashboard
 
