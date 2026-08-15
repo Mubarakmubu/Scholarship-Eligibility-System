@@ -77,21 +77,21 @@ Pending Verification
 
 ### Login Page
 
-![Login Page](screenshots/Screenshot%20(476).png)
+![Login Page](Screenshot%20(476).png)
 
 ### Student Dashboard
 
-![Dashboard](screenshots/Screenshot%20(472).png)
+![Dashboard](Screenshot%20(472).png)
 
 ### Document Upload
 
-![Document Upload](screenshots/Screenshot%20(473).png)
+![Document Upload](Screenshot%20(473).png)
 
 ### College Recommendation
 
-![College Recommendation](screenshots/Screenshot%20(474).png)
+![College Recommendation](Screenshot%20(474).png)
 
 ### Application Submitted
 
-![Application Success](screenshots/Screenshot%20(475).png)
+![Application Success](Screenshot%20(475).png)
 
