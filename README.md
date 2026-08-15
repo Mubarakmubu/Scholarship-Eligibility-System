@@ -77,7 +77,7 @@ Pending Verification
 
 ### Login Page
 
-![Login Page](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/48e2684549310035d7e9d930966b8de116768046/Screenshot%20(476).png)
+![Login Page](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/main/Screenshot%20(476).png?raw=true)
 
 ### Student Dashboard
 
