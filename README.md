@@ -77,7 +77,7 @@ Pending Verification
 
 ### Login Page
 
-![Login Page](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/main/Screenshot%20(476).png?raw=true)
+![Login Page]("C:\Users\mupar\OneDrive\Pictures\Screenshots\Screenshot (476).png")
 
 ### Student Dashboard
 
