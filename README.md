@@ -81,7 +81,7 @@ Pending Verification
 
 ### Student Dashboard
 
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/a23793727d479e8eb408b858caa8b6bd3fb414ae/Screenshot%20(472).png)
 
 ### Document Upload
 
