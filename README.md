@@ -94,8 +94,4 @@ Pending Verification
 ### Application Submitted
 
 ![Application Success](screenshots/Screenshot%20(475).png)
-![College Recommendation](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/4d0737fa16a8f4b99fd3958cffa237eb9be6ff76/Screenshot%20(474).png)
 
-### Application Submitted
-
-![Application Success](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/76fa70117a44cd42b02ff5e6586f6ca990e96b82/Screenshot%20(475).png)
