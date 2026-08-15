@@ -77,18 +77,23 @@ Pending Verification
 
 ### Login Page
 
-![Login Page](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/61e5f9f2ddcb2d4479baab77f9d264afa5d2715f/Screenshot%20(476).png)
+![Login Page](screenshots/Screenshot%20(476).png)
 
 ### Student Dashboard
 
-![Dashboard](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/a23793727d479e8eb408b858caa8b6bd3fb414ae/Screenshot%20(472).png)
+![Dashboard](screenshots/Screenshot%20(472).png)
 
 ### Document Upload
 
-![Document Upload](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/eea21bede28867be56c901bf53c256aedac90d3b/Screenshot%20(473).png)
+![Document Upload](screenshots/Screenshot%20(473).png)
 
 ### College Recommendation
 
+![College Recommendation](screenshots/Screenshot%20(474).png)
+
+### Application Submitted
+
+![Application Success](screenshots/Screenshot%20(475).png)
 ![College Recommendation](https://github.com/Mubarakmubu/Scholarship-Eligibility-System/blob/4d0737fa16a8f4b99fd3958cffa237eb9be6ff76/Screenshot%20(474).png)
 
 ### Application Submitted
