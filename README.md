@@ -48,7 +48,6 @@ If the required conditions are satisfied, the student is marked eligible.
 
 ## 🔄 System Workflow
 
-```text
 Student Registration
         ↓
 Student Login
@@ -75,13 +74,18 @@ Pending Verification
 
 ## 📸 Screenshots
 
-![Login Page](Screenshot%20(476).png)
+### Login Page
+![Login Page](Screenshot%20%28476%29.png)
 
-![Dashboard](Screenshot%20(472).png)
+### Student Dashboard
+![Dashboard](Screenshot%20%28472%29.png)
 
-![Document Upload](Screenshot%20(473).png)
+### Document Upload
+![Document Upload](Screenshot%20%28473%29.png)
 
-![College Recommendation](Screenshot%20(474).png)
+### College Recommendation
+![College Recommendation](Screenshot%20%28474%29.png)
 
-![Application Success](Screenshot%20(475).png)
+### Application Submitted
+![Application Success](Screenshot%20%28475%29.png)
 
